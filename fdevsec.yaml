@@ -2,7 +2,7 @@ version: v1
 
 id:
   org: 2e3b7756-bbaa-4d09-8ee1-8beabd0c6a2c
-  app: <insert app id here>    
+  app: 5a0b98ee-1358-4b11-bb35-95522b1ed3ed    
 
 # Optional parameters.
 scanners:
