@@ -27,7 +27,7 @@ git clone https://github.com/FortinetCloudCSE/fortigate-aws-vpc-routeserver-acti
 
   ![](deploy4.png)
 
-5.  On the Specify Details page, you will be prompted for a stack name and parameters for the deployment.  We are using the **'NewSecurityVPC_RouteServer_ActiveActive.template.json'** template which deploys a new VPC, gives options for TGW integration, and deploys a FGCP cluster as well.
+5.  On the Specify Details page, you will be prompted for a stack name and parameters for the deployment.  We are using the **'NewSecurityVPC_RouteServer_ActiveActive.template.json'** template which deploys a new VPC, gives options for TGW integration, and deploys the FGTs as well.
 
   ![](deploy5a.png)
 	
