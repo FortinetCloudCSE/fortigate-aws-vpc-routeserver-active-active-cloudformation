@@ -2243,7 +2243,8 @@
 												"\n",
 												[
 													"set bfd enable",
-													"set bfd-desired-min-tx 300"
+													"set bfd-desired-min-tx 300",
+													"set bfd-required-min-rx 300"
 												]
 											]
 										},
